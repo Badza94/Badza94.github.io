@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Badza94/cv/precache-manifest.2ac1a5585e9a7f9f3053c35a4330941f.js"
+  "//badza94.github.io/precache-manifest.63d624436a95aeaacbc0dbb6cf2783c5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Badza94/cv/index.html", {
+workbox.routing.registerNavigationRoute("//badza94.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
