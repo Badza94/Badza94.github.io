@@ -2,7 +2,7 @@
   "name": "cv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://http://badza94.github.io/",
+  "homepage": "https://github.com/Badza94/Badza94.github.io",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
